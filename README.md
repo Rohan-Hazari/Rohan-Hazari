@@ -3,7 +3,8 @@
 
 
 
-My name is <b> Rohan Hazari </b> and Currently, I am a 3rd year Computer Science Student. I started coding in the year 2021 and I am currently learning MERN stack and focused on making projects based on on it
+<p style="font-size:30px; text-align:center;">My name is <b style="font-size:50px"> Rohan Hazari </b></p> 
+I am a 3rd year Computer Science Student. I started coding in the year 2021 and I am currently learning MERN stack and focused on making projects based on it
 
 
 

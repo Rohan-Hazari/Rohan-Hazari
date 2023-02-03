@@ -31,7 +31,7 @@ My name is <b> Rohan Hazari </b> and Currently, I am a 3rd year Computer Science
 
 ### GitHub stats:
 <img  src="https://github-readme-stats.vercel.app/api?username=Rohan-Hazari&show_icons=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Hazari&theme=react" width="48%" >
+<img  src="![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan-Hazari&show_icons=true&theme=radical)" width="48%" >
 
 
 

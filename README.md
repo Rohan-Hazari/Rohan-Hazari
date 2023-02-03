@@ -9,7 +9,7 @@ My name is <b> Rohan Hazari </b> and Currently, I am in the 3rd year of my cours
 
 ### Connect with me:
 | [<img align="center" alt="LinkdIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  style="padding-right:10px;"/>](https://www.linkedin.com/in/rohan-hazari-1a1199216/) | [<img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  style="padding-right:10px;"/>](https://twitter.com/rohanhzri) 
-| - | - | - |
+
 
 <br>
 

@@ -1,4 +1,4 @@
-[<img src="portfolio2.png">](https://nileshlad.vercel.app/)
+[<img src="banner.jpeg">]
 <br/>
 
 

@@ -6,6 +6,8 @@
 <p align="center" width="30px" >My name is <b> Rohan Hazari </b></p> 
 I am a 3rd year Computer Science Student. I started coding in the year 2021 and I am currently learning MERN stack and focused on making projects based on it
 
+Check out <a href = " https://rohanhzri.netlify.app/">my portfolio</a>
+
 
 
 ### Connect with me:

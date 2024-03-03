@@ -14,18 +14,9 @@ Check out my [Portfolio](https://rohanhzri.netlify.app/)
  [<img align="center" alt="LinkdIn" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  style="padding-right:10px;"/>](https://www.linkedin.com/in/rohan-hazari-1a1199216/) [<img align="center" alt="Twitter" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  style="padding-right:10px;"/>](https://twitter.com/rohanhzri) 
 
 
-<br>
 
 
 
-### Languages and Tools:
-
-<img align="center" alt="Visual Studio Code" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /><img align="center" alt="Git" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px" /><img align="center" alt="GitHub" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px" /> 
-
-<img align="center" alt="HTML5" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />  <img align="center" alt="CSS3" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />  <img align="center" alt="JavaScript" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> 
-
-
-<img align="center" alt="React" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> <img align="center" alt="Node.js" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />  
 
 
 

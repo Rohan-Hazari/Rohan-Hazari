@@ -1,5 +1,4 @@
-<img src="banner.jpeg">
-<br/>
+
 
 
 
@@ -12,3 +11,6 @@ Check out my [Portfolio](https://rohanhzri.netlify.app/)
 
 ### Connect with me:
  [<img align="center" alt="LinkdIn" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  style="padding-right:10px;"/>](https://www.linkedin.com/in/rohan-hazari-1a1199216/) [<img align="center" alt="Twitter" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  style="padding-right:10px;"/>](https://twitter.com/rohanhzri) 
+
+### Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohan-Hazari&theme=radical)](https://git.io/streak-stats)
